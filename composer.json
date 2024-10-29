@@ -23,6 +23,7 @@
             ]
         }
     },
+    "license": "MIT",
     "minimum-stability": "stable",
     "prefer-stable": true
 }
